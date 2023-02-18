@@ -10,4 +10,5 @@
 
 ## RAMPAGE.place Marketplace
 
-* [How do I join?](rampage.place-marketplace/how-do-i-join.md)
+* [How do I join as a seller?](rampage.place-marketplace/how-do-i-join-as-a-seller.md)
+* [Do you offer refunds?](rampage.place-marketplace/do-you-offer-refunds.md)
