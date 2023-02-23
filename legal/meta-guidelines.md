@@ -1,5 +1,7 @@
 # META Guidelines
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### [This is a Civilized Place for Public Discussion](https://meta.rampage.place/t/faq-guidelines/5#civilized)
 
 Please treat this discussion forum with the same respect you would a public park. We, too, are a shared community resource — a place to share skills, knowledge and interests through ongoing conversation.

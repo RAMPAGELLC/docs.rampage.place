@@ -1,5 +1,7 @@
 # META Privacy Policy
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### [What information do we collect?](https://meta.rampage.place/t/privacy-policy/6#collect)
 
 We collect information from you when you register on our site and gather data when you participate in the forum by reading, writing, and evaluating the content shared here.
