@@ -5,9 +5,18 @@
 
 ## LEGAL
 
+* [Notes](legal/notes.md)
 * [Term's Of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
 * [Refund Policy](legal/refund-policy.md)
+* [Web Commission Policy](legal/web-commission-policy.md)
+* [Roblox Commission Policy](legal/roblox-commission-policy.md)
+* [Hosting Internet Policy](legal/hosting-internet-policy.md)
+* [Hosting Terms Of Service](legal/hosting-terms-of-service.md)
+* [Hosting Privacy Policy](legal/hosting-privacy-policy.md)
+* [META Terms Of Service](legal/meta-terms-of-service.md)
+* [META Privacy Policy](legal/meta-privacy-policy.md)
+* [META Guidelines](legal/meta-guidelines.md)
 
 ## RAMPAGE.place Marketplace
 
