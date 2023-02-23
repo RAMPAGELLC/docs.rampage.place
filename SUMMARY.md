@@ -6,10 +6,11 @@
 ## LEGAL
 
 * [Notes](legal/notes.md)
-* [Copyright](legal/copyright.md)
 * [Term's Of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
 * [Refund Policy](legal/refund-policy.md)
+* [Branding Policy](legal/branding-policy.md)
+* [Copyright](legal/copyright.md)
 * [Web Commission Policy](legal/web-commission-policy.md)
 * [Roblox Commission Policy](legal/roblox-commission-policy.md)
 * [Hosting Internet Policy](legal/hosting-internet-policy.md)
