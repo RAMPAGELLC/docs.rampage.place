@@ -23,6 +23,9 @@
 ## Staff Documentation
 
 * [Introduction](staff-documentation/introduction.md)
+* [Moderation Branch](staff-documentation/moderation-branch/README.md)
+  * [Global Standards](staff-documentation/moderation-branch/global-standards.md)
+  * [Moderator Policies](staff-documentation/moderation-branch/moderator-policies.md)
 * [Development Branch](staff-documentation/development-branch/README.md)
   * [Developer Orientation](staff-documentation/development-branch/developer-orientation.md)
   * [Developer Policies](staff-documentation/development-branch/developer-policies.md)
