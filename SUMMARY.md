@@ -20,6 +20,7 @@
 * [META Privacy Policy](legal/meta-privacy-policy.md)
 * [META Guidelines](legal/meta-guidelines.md)
 * [Market Term's Of Service](legal/market-terms-of-service.md)
+* [Market Privacy Policy](legal/market-privacy-policy.md)
 
 ## Staff Documentation
 
