@@ -21,6 +21,7 @@
 * [META Guidelines](legal/meta-guidelines.md)
 * [Market Term's Of Service](legal/market-terms-of-service.md)
 * [Market Privacy Policy](legal/market-privacy-policy.md)
+* [scpf.group Data Collection & Rights](legal/scpf.group-data-collection-and-rights.md)
 
 ## Staff Documentation
 
