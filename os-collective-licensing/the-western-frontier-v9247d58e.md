@@ -4,13 +4,9 @@
 
 ## Term's & Licensing
 
-MIT License.
+Copyright 2023 RAMPAGE INTERACTIVE
 
-The Western Frontier is licensed under the MIT License.
-
-Additional Terms:
-
-The following terms apply specifically to the use of The Western Frontier:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 ## GFX Art
 
@@ -38,11 +34,19 @@ RAMPAGE Interactive will not issue DMCA's against The Western Frontier clones. N
 
 RAMPAGE Interactive reserves the right to remove any assets from The Western Frontier, including but not limited to, models created by Gamory, the gun system, and any proprietary software, without prior notice. RAMPAGE Interactive shall not be liable for any damages arising from the removal of such assets.
 
-## MIT License
+## Selling
 
-The MIT License applies to The Western Frontier and its associated documentation files. Permission is hereby granted, free of charge, to any person obtaining a copy of The Western Frontier, to deal in The Western Frontier without restriction, subject to the conditions and limitations set forth in the MIT License.
+Selling The Western Frontier is not allowed without written permission from RAMPAGE Interactive.
+
+## License
+
+The License applies to The Western Frontier and its associated documentation files. Permission is hereby granted, free of charge, to any person obtaining a copy of The Western Frontier, to deal in The Western Frontier without restriction, subject to the conditions and limitations set forth in the MIT License.
 
 By using The Western Frontier, you agree to be bound by the terms of this license. If you do not agree to the terms of this license, you are not permitted to use The Western Frontier.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Download
 
