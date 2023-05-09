@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Page 1](page-1.md)
 
 ## LEGAL
 
@@ -22,6 +21,10 @@
 * [Market Term's Of Service](legal/market-terms-of-service.md)
 * [Market Privacy Policy](legal/market-privacy-policy.md)
 * [scpf.group Data Collection & Rights](legal/scpf.group-data-collection-and-rights.md)
+
+## OS Collective Licensing
+
+* [The Western Frontier - v9247d58e](os-collective-licensing/the-western-frontier-v9247d58e.md)
 
 ## Staff Documentation
 
