@@ -18,7 +18,7 @@ The Western Frontier brand and its logos are the exclusive property of RAMPAGE I
 
 ## Animations and 3D Models
 
-3D models created by Gamory, a RAMPAGE Interactive employee, or Animations by AuroraMan, a RAMPAGE Interactive employee, are the exclusive property of RAMPAGE Interactive. You are not permitted to use any animations or 3D models created by Gamory/AuroraMan, or any derivative works of such animations or 3D models, without the express written permission of RAMPAGE Interactive.
+3D models created by Gaomory or Garsha3D, RAMPAGE Interactive employees, or Animations by AuroraMan, a RAMPAGE Interactive employee, are the exclusive property of RAMPAGE Interactive. You are not permitted to use any animations or 3D models created by Gaomory/Garsha3D/AuroraMan, or any derivative works of such animations or 3D models, without the express written permission of RAMPAGE Interactive.
 
 ## Disclaimer of Liability
 
