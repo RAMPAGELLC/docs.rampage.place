@@ -34,7 +34,3 @@ Discord (**Recommended**): discord.gg/rampagecorp
   * No.
 * Will SCPF Panel ever be Open-Sourced?
   * Most likely never.
-
-## Disclaimer
-
-RAMPAGE Interactive is not endorsed by Bulk Games.
