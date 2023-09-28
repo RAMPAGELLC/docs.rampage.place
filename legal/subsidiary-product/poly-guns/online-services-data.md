@@ -15,3 +15,21 @@ Beyond matchmaking and account data, RAMPAGE Online Services power various other
 In summary, Poly Guns stands as a testament to RAMPAGE Interactive's commitment to delivering high-quality online gaming experiences. By harnessing the capabilities of RAMPAGE Online Services powered by Epic Online Services and synchronized with RAMPAGE ID, Poly Guns offers an immersive multiplayer environment with seamless matchmaking, secure account data management, and a wealth of features that keep players engaged and entertained. Join the Poly Guns community today and experience the future of online gaming, powered by RAMPAGE Interactive's innovative technology stack.
 
 **Disclaimer**, RAMPAGE Interactive, and it's product Poly Guns, and private services such as RAMPAGE Online services are **not affiliated or endorsed** by Epic Games.
+
+## Data Usage
+
+Upon authorization through Epic Online Services a account will be automatically created based on your epic games e-mail, if you already create a RAMPAGE ID your account will be linked.
+
+Your Epic Games link will be linked to your RAMPAGE ID. **We will never sell your data.**
+
+## Games Linked
+
+Your RAMPAGE ID is linked across other game titles on RAMPAGE, if you delete your RAMPAGE ID you will lose your progression within RAMPAGE Games such as XP/Level, Skins, etc.
+
+## Delete/Manage your Data/Account
+
+You can manage your account at id.rampage.place
+
+## RAMPAGE ID Required?
+
+How our backend works for RAMPAGE, you will require a RAMPAGE ID in-order to play a RAMPAGE Title.

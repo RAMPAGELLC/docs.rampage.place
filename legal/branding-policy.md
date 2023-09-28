@@ -1,6 +1,6 @@
 # Branding Policy
 
-<figure><img src="../../.gitbook/assets/Brand_Blue.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Brand_Blue.png" alt=""><figcaption></figcaption></figure>
 
 ## Press Kit Policy & Branding Policy
 

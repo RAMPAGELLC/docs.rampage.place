@@ -1,6 +1,6 @@
 # META Terms Of Service
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 These terms govern use of the Internet forum at [https://meta.rampage.place](https://meta.rampage.place/). To use the forum, you must agree to these terms with RAMPAGE INTERACTIVE, the company that runs the forum.
 

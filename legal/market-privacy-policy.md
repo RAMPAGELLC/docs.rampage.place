@@ -1,6 +1,6 @@
 # Market Privacy Policy
 
-<figure><img src="../../.gitbook/assets/MarketGreen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MarketGreen.png" alt=""><figcaption></figcaption></figure>
 
 ## Privacy Policy
 

@@ -1,6 +1,6 @@
 # META Guidelines
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### [This is a Civilized Place for Public Discussion](https://meta.rampage.place/t/faq-guidelines/5#civilized)
 

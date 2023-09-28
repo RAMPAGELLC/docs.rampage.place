@@ -1,6 +1,6 @@
 # META Privacy Policy
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### [What information do we collect?](https://meta.rampage.place/t/privacy-policy/6#collect)
 

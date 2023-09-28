@@ -1,6 +1,6 @@
 # Copyright
 
-<figure><img src="../../.gitbook/assets/Brand_Blue.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Brand_Blue.png" alt=""><figcaption></figcaption></figure>
 
 **Statement/Declaration of Rights**\
 Subject to the provisions of this notice, this website and all its content, information, or\

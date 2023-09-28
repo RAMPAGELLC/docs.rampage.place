@@ -1,6 +1,6 @@
 # Hosting Terms Of Service
 
-<figure><img src="../../.gitbook/assets/Brand_Blue.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Brand_Blue.png" alt=""><figcaption></figcaption></figure>
 
 ## Terms & Conditions Agreement
 

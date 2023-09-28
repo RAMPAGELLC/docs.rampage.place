@@ -1,6 +1,6 @@
 # Market Term's Of Service
 
-<figure><img src="../../.gitbook/assets/MarketGreen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MarketGreen.png" alt=""><figcaption></figcaption></figure>
 
 ## Term's Of Service
 
