@@ -5,9 +5,11 @@
 ## Support
 
 * [How to appeal moderation action](support/how-to-appeal-moderation-action.md)
+* [Contact Support Assistance](support/contact-support-assistance.md)
 
 ## LEGAL
 
+* [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
   * [Poly Guns](legal/subsidiary-product/poly-guns/README.md)
     * [Online Services Data](legal/subsidiary-product/poly-guns/online-services-data.md)
