@@ -12,6 +12,7 @@
 * [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
   * [Poly Guns](legal/subsidiary-product/poly-guns/README.md)
+    * [PolyGuns Community Guidelines](legal/subsidiary-product/poly-guns/polyguns-community-guidelines.md)
     * [Online Services Data](legal/subsidiary-product/poly-guns/online-services-data.md)
   * [scpf.group](legal/subsidiary-product/scpf.group/README.md)
     * [Data Collection & Rights](legal/scpf.group-data-collection-and-rights.md)
