@@ -2,6 +2,10 @@
 
 * [Welcome](README.md)
 
+## Support
+
+* [How to appeal moderation action](support/how-to-appeal-moderation-action.md)
+
 ## LEGAL
 
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
