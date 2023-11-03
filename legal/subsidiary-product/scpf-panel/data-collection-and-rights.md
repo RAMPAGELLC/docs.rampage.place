@@ -1,12 +1,12 @@
 # Data Collection & Rights
 
-scpf.group (refered as "SCPF Panel") is a proprietary software developed by RAMPAGE Interactive. SCPF Panel is NOT for sale.
+SCPF Panel is a proprietary software developed by RAMPAGE Interactive. SCPF Panel is not for sale.
 
 ## What we collect
 
 We collect information specified on the OAuth page. Data authorized may be displayed to certain users on our site. Email addressed are never shown and only used internally for notifications.
 
-Our OAuth page does not display we collect group information, This is not displayed to save us database storage storing up to 200 groups per user. We will use your UserId to make API calls to Roblox.com for your group information for security restrictions to your relative SCPF's group structure.
+Our OAuth page does not display we collect group information, This is not displayed to save us database storage storing up to 200 groups per user. We will use your UserId to make API calls for your group information for security restrictions to your relative SCPF's group structure.
 
 If you have any questions please contact us on our Discord.&#x20;
 
@@ -23,8 +23,6 @@ To request full-data deletion (data tied to a Class-E Registry such as a Email f
 Email: support@rampagestudios.org
 
 System Admin: admin@rampagestudios.org
-
-Forum: meta.rampage.place
 
 ## FaQ
 

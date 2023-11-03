@@ -7,6 +7,11 @@
 * [How to appeal moderation action](support/how-to-appeal-moderation-action.md)
 * [Contact Support Assistance](support/contact-support-assistance.md)
 
+## RAMPAGE.Host
+
+* [SSH connection tools you can use](rampage.host/ssh-connection-tools-you-can-use.md)
+* [Can I up/down-grade my service?](rampage.host/can-i-up-down-grade-my-service.md)
+
 ## LEGAL
 
 * [Health Warning](legal/health-warning.md)
@@ -14,8 +19,8 @@
   * [Poly Guns](legal/subsidiary-product/poly-guns/README.md)
     * [PolyGuns Community Guidelines](legal/subsidiary-product/poly-guns/polyguns-community-guidelines.md)
     * [Online Services Data](legal/subsidiary-product/poly-guns/online-services-data.md)
-  * [scpf.group](legal/subsidiary-product/scpf.group/README.md)
-    * [Data Collection & Rights](legal/scpf.group-data-collection-and-rights.md)
+  * [SCPF Panel](legal/subsidiary-product/scpf-panel/README.md)
+    * [Data Collection & Rights](legal/subsidiary-product/scpf-panel/data-collection-and-rights.md)
 * [General](legal/general/README.md)
   * [Commission Policy](legal/web-commission-policy.md)
   * [Copyright](legal/copyright.md)
