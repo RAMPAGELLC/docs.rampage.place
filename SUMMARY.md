@@ -28,7 +28,6 @@
   * [Market Term's Of Service](legal/market-terms-of-service.md)
   * [Market Privacy Policy](legal/market-privacy-policy.md)
 * [RAMPAGE.Host](legal/notes.md)
-  * [Hosting Internet Policy](legal/hosting-internet-policy.md)
   * [Hosting Terms Of Service](legal/hosting-terms-of-service.md)
   * [Hosting Privacy Policy](legal/hosting-privacy-policy.md)
 * [Term's Of Service](legal/terms-of-service.md)
