@@ -16,6 +16,8 @@
 
 * [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
+  * [Bear Customs](legal/subsidiary-product/bear-customs/README.md)
+    * [Customer Agreement](legal/subsidiary-product/bear-customs/customer-agreement.md)
   * [Poly Guns](legal/subsidiary-product/poly-guns/README.md)
     * [PolyGuns Community Guidelines](legal/subsidiary-product/poly-guns/polyguns-community-guidelines.md)
     * [Online Services Data](legal/subsidiary-product/poly-guns/online-services-data.md)
