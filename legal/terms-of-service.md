@@ -4,8 +4,8 @@
 
 ## Terms of Service
 
-Effective as of the January 4th, 2022\
-Last edited as of September 29th, 2023
+Effective as of the January 4th, 2022.\
+Last edited as of June 12th, 2024.
 
 Terms:\
 ("Us", "We", "Company", "Service", "Platform", "RAMPAGE", "RAMPAGE Group"), as in RAMPAGE Interactive & It's subsidiary company(s), project(s), product(s), etc.
@@ -79,3 +79,5 @@ RAMPAGE Interactive has all authority to terminate, suspend, block, etc access t
 **\*** The violation of the Terms of Service will result in the suspension of your account, to avoid any conflict we request that you comply with the Terms of Service.
 
 **\*** We reserve all rights to change this policy with or without notice at any time. It is recommended that you regularly review this policy to make sure you still agree with this policy. Any such policy updates will be strictly approved by Chief Executive Officer.
+
+We partner with Tebex Limited ([www.tebex.io](https://www.tebex.io)), who are the official merchant of digital content produced by us. If you wish to purchase licenses to use digital content we produce, you must do so through Tebex as our licensed reseller and merchant of record. In order to make any such purchase from Tebex, you must agree to their terms, available at [https://checkout.tebex.io/terms](https://checkout.tebex.io/terms). If you have any queries about a purchase made through Tebex, including but not limited to refund requests, technical issues or billing enquiries, you should contact Tebex support at [https://www.tebex.io/contact/checkout](https://www.tebex.io/contact/checkout) in the first instance.
