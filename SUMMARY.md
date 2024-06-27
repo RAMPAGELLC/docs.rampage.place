@@ -16,6 +16,7 @@
 
 * [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
+  * [CRP: Live](legal/subsidiary-product/crp-live.md)
   * [Bear Customs](legal/subsidiary-product/bear-customs/README.md)
     * [Customer Agreement](legal/subsidiary-product/bear-customs/customer-agreement.md)
   * [Poly Guns](legal/subsidiary-product/poly-guns/README.md)
