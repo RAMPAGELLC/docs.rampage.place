@@ -9,7 +9,7 @@ Live network is utilized store such information such as;
 * Discord user id
 * Discord roles within the Canadian Roleplay Discord (Guild Id: 982714927246626816) and certain department discords of CRP. Your roles are freshly cached during each query lookup/connection to a CRP game utilizing the live network.
 * Roblox user id
-* Verification status linking your Discord to your Roblox powered by **MetaLink**, a product of Metatable Games providing account verification system & public lookup.
+* Verification status linking your Discord to your Roblox powered by RoVer.
 * Analytical information such as gameplay information such as Stats, Played contents of the map, Device type, etc. Analytical information is strictly shared only between the Development & Management Team
 
 ## Data sharing
