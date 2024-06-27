@@ -16,6 +16,9 @@
 
 * [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
+  * [RAMPAGE ID](legal/subsidiary-product/rampage-id/README.md)
+    * [Account Linking](legal/subsidiary-product/rampage-id/account-linking/README.md)
+      * [Roblox Verification Terms & Privacy](legal/subsidiary-product/rampage-id/account-linking/roblox-verification-terms-and-privacy.md)
   * [CRP: Live](legal/subsidiary-product/crp-live.md)
   * [Bear Customs](legal/subsidiary-product/bear-customs/README.md)
     * [Customer Agreement](legal/subsidiary-product/bear-customs/customer-agreement.md)
