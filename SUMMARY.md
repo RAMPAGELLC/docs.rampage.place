@@ -17,6 +17,7 @@
 * [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
   * [RAMPAGE ID](legal/subsidiary-product/rampage-id/README.md)
+    * [OAuth](legal/subsidiary-product/rampage-id/oauth.md)
     * [Account Linking](legal/subsidiary-product/rampage-id/account-linking/README.md)
       * [Steam Link: Term's & Privacy Rights](legal/subsidiary-product/rampage-id/account-linking/steam-link-terms-and-privacy-rights.md)
       * [Roblox Link: : Term's & Privacy Rights](legal/subsidiary-product/rampage-id/account-linking/roblox-link-terms-and-privacy-rights.md)
