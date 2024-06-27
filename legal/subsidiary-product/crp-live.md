@@ -2,22 +2,21 @@
 
 ## About
 
-Canadian Roleplay (CRP) Live Network (Live) is a database pertaining to session information, misc department information, etc.\
+Canadian Roleplay (**CRP**) Live Network (**Live**) is a database pertaining to session information, misc department information, etc.\
 \
 Live network is utilized store such information such as;
 
 * Discord user id
-* Discord roles within the Canadian Roleplay Discord (Guild Id: 982714927246626816) and certain department discords of CRP.
+* Discord roles within the Canadian Roleplay Discord (Guild Id: 982714927246626816) and certain department discords of CRP. Your roles are freshly cached during each query lookup/connection to a CRP game utilizing the live network.
 * Roblox user id
-* Verification status linking your Discord to your Roblox powered by MetaLinked, a product of Metatable Games.
+* Verification status linking your Discord to your Roblox powered by **MetaLink**, a product of Metatable Games providing account verification system & public lookup.
 * Analytical information such as gameplay information such as Stats, Played contents of the map, Device type, etc. Analytical information is strictly shared only between the Development & Management Team
 
 ## Data sharing
 
-Certain information from the Live network is shared with the community ranging from Moderation Staff to Community Members (also known as the Public.) such as Discord Id, Verification Status, etc. We will never violate your privacy or share any analytical information.
+Certain information from the Live network is shared with the community ranging from Moderation Staff to Community Members (also known as the Public.) such as Discord Id, Verification Status, etc.&#x20;
 
-\
-We do **NOT** sell any data to anyone.
+**We will never violate your privacy or share any analytical information. We do NOT sell any data to anyone. We do not have access or store any sensitive information other than a Device Type.**
 
 ## Purpose
 
@@ -25,6 +24,7 @@ The primary purpose to Live network is:
 
 * to provide a permission system based on Discord roles for in-game actions, vehicles, items, etc.
 * moderation purposes.
+* log of total CRP playtime for specific CRP games & total for misc. purposes
 
 ## Privacy concerns & your power
 
@@ -41,4 +41,4 @@ An "account" is created within Live network once you link your Roblox & Discord 
 
 
 
-Linking is required to utilize certain in-game priviliges, and may be required by certain departments.
+Linking is required to utilize certain in-game privileges, and may be required by certain departments.
