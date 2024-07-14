@@ -31,6 +31,12 @@ RAMPAGE Marketplace respects the intellectual property rights of others and expe
 
 Payments on RAMPAGE Marketplace are processed through third-party payment processors. RAMPAGE Marketplace is not responsible for any payment processing errors, unauthorized charges, or other payment-related issues. All sales are final, and refunds are not guaranteed. Refund requests will be reviewed on a case-by-case basis at the discretion of RAMPAGE Interactive.
 
+## EU Rights to Withdrawal
+
+For EU Customers, When you make a transaction within the platform you agree to waive your rights to withdraw from the purchase within 14 days.&#x20;
+
+Disagreeing to waive your rights results in you being prohibited from performing transactions.
+
 ## Multi-Vendors and Moderation
 
 RAMPAGE Marketplace is a multi-vendor platform, and we do not endorse or guarantee the quality or safety of any products or services sold on our platform. Each vendor is responsible for their products and services, including compliance with all applicable laws and regulations.
