@@ -6,4 +6,4 @@ Customers do not experience any sort of fees, other than the default if any by t
 
 ## For Vendors
 
-For Vendors we take a mandatory 5% of transactions within the marketplace.
+For Vendors we take a mandatory 8% of transactions within the marketplace.
