@@ -55,7 +55,6 @@
   * [Hosting Privacy Policy](legal/hosting-privacy-policy.md)
 * [Term's Of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
-* [Refund Policy](legal/refund-policy.md)
 
 ## OS Collective Licensing
 
