@@ -11,7 +11,7 @@ This Privacy Policy outlines how RAMPAGE Marketplace ("we", "us", or "our") coll
 ## Information We Collect We collect the following information from you when you use our Services:
 
 * Personal Information: We collect your name, email address, and phone number when you register for an account with us. We also collect your payment and billing information when you make a purchase.
-* Usage Information: We collect information about how you use our Services, including your browsing history, search queries, and the pages you visit.
+* Usage Information: We collect information about how you use our Services, including your browsing history, search queries, and the pages you visit on market.rampage.place.
 * Device Information: We collect information about the devices you use to access our Services, including your IP address, browser type, and operating system.
 * Location Information: We may collect your location information if you choose to share it with us.
 
