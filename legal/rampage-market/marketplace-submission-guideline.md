@@ -44,8 +44,10 @@ Our submission guidelines are crafted to support both new and established contri
 
 Sellers grant RAMPAGE Community Marketplace a license to transmit, send, and process the file to provide its services.
 
+Seller grants RAMPAGE Community Marketplace staff permission to utilize product in marketing material (photographs only.)
+
 **Staff Policy on Product Downloads**
 
-RAMPAGE Community Marketplace staff does not download products without owning them.
+RAMPAGE Community Marketplace staff does not download/use products without owning them, or without permission from the vendor owner.
 
 Adhering to these guidelines ensures consistency, quality, and transparency within our marketplace. Thank you for your commitment to maintaining these standards as part of our community of creators and innovators.
