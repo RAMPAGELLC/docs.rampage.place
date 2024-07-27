@@ -14,6 +14,7 @@
 
 ## LEGAL
 
+* [KPM](legal/kpm.md)
 * [Health Warning](legal/health-warning.md)
 * [Subsidiary/Product](legal/subsidiary-product/README.md)
   * [RAMPAGE ID](legal/subsidiary-product/rampage-id/README.md)
@@ -59,3 +60,11 @@
 ## OS Collective Licensing
 
 * [The Western Frontier - v9247d58e](os-collective-licensing/the-western-frontier-v9247d58e.md)
+
+## API Docs
+
+* [KPM](api-docs/kpm/README.md)
+  * [packages](api-docs/kpm/packages/README.md)
+    * [POST api/v1/packages/publish](api-docs/kpm/packages/post-api-v1-packages-publish.md)
+    * [GET api/v1/packages/search/{page}/{search\_term}](api-docs/kpm/packages/get-api-v1-packages-search-page-search\_term.md)
+    * [GET api/v1/packages/browse/{page}](api-docs/kpm/packages/get-api-v1-packages-browse-page.md)
