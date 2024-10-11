@@ -31,6 +31,7 @@
     * [Online Services Data](legal/subsidiary-product/poly-guns/online-services-data.md)
   * [SCPF Panel](legal/subsidiary-product/scpf-panel/README.md)
     * [Data Collection & Rights](legal/subsidiary-product/scpf-panel/data-collection-and-rights.md)
+  * [Sentinel Terms of Service (ToS) and Privacy Policy](legal/subsidiary-product/sentinel-terms-of-service-tos-and-privacy-policy.md)
 * [General](legal/general/README.md)
   * [Commission Policy](legal/web-commission-policy.md)
   * [Copyright](legal/copyright.md)
